@@ -1,0 +1,9 @@
+font-face {
+  font-family: 'Custom Font';
+  src: url(https://justbecause.dev/tests/crossorigin/roboto.woff2) format('woff2');
+}
+
+body {
+  font-family: 'Custom Font';
+}
+
